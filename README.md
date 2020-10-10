@@ -1,2 +1,2 @@
-# trexGame
-the trex game which is hosted on google chrome and firefox
+# trex
+Offline Game where trex jumps and runs over the obstacles.
